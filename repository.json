@@ -4,11 +4,7 @@
     {
       "name": "OoT Randomizer - Items Only",
       "author": "JRJathome",
-<<<<<<< HEAD
-      "package_version": "2.0.0.7",
-=======
       "version": "2.0.0.6",
->>>>>>> e4742174957bfa0c1253d3b1d18e1ff00d10c2e2
       "uid": "ootrando_itemsonly_jrjathome",
       "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_jrjathome.zip"
     },
