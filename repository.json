@@ -4,9 +4,16 @@
     {
       "name": "OoT Randomizer - Items Only",
       "author": "JRJathome",
-      "version": "2.0.0.14",
+      "version": "2.0.1.1",
       "uid": "ootrando_itemsonly_jrjathome",
       "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_jrjathome.zip"
+    },
+    {
+      "name": "OoT Randomizer - Items Only with Dungeon Images",
+      "author": "JRJathome",
+      "version": "2.0.0.15",
+      "uid": "ootrando_itemsonly_images_jrjathome",
+      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_images_jrjathome.zip"
     },
 	{
       "name": "OoT Randomizer - Items Only - Old Layout",
