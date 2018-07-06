@@ -4,21 +4,28 @@
     {
       "name": "OoT Randomizer - Items Only",
       "author": "JRJathome",
-      "version": "2.0.1.3",
+      "version": "2.0.1.5",
       "uid": "ootrando_itemsonly_jrjathome",
       "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_jrjathome.zip"
+    },
+	{
+      "name": "OoT Randomizer - Items Only - Keysanity",
+      "author": "JRJathome",
+      "version": "1.0.0.1",
+      "uid": "ootrando_itemsonly_keysanity_jrjathome",
+      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly__keysanity_jrjathome.zip"
     },
     {
       "name": "OoT Randomizer - Items Only with Dungeon Images",
       "author": "JRJathome",
-      "version": "2.0.0.16",
+      "version": "2.0.0.17",
       "uid": "ootrando_itemsonly_images_jrjathome",
       "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_images_jrjathome.zip"
     },
 	{
       "name": "OoT Randomizer - Items Only - Old Layout",
       "author": "JRJathome",
-      "version": "2.0.0.6",
+      "version": "2.0.0.7",
       "uid": "ootrando_itemsonly_jrjathome_old",
       "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_jrjathome_old.zip"
     },
