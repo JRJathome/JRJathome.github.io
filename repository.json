@@ -35,6 +35,7 @@
     },
     {
       "name": "LADX Randomizer - Items Only",
+	  "game_name": "Link's Awakening Randomizer",
       "author": "JRJathome",
       "version": "1.0.0.8",
       "uid": "ladx_itemsonly_jrjathome",
