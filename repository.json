@@ -2,36 +2,12 @@
   "name": "JRJathome's Trackers",
   "packages": [
     {
-      "name": "OoT Randomizer - Items Only",
+      "name": "Items Only",
 	  "game_name": "Ocarina of Time Randomizer",
       "author": "JRJathome",
-      "version": "2.0.1.7",
-      "uid": "ootrando_itemsonly_jrjathome",
-      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_jrjathome.zip"
-    },
-	{
-      "name": "OoT Randomizer - Items Only - Keysanity",
-	  "game_name": "Ocarina of Time Randomizer",
-      "author": "JRJathome",
-      "version": "1.0.0.1",
-      "uid": "ootrando_itemsonly_keysanity_jrjathome",
-      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly__keysanity_jrjathome.zip"
-    },
-    {
-      "name": "OoT Randomizer - Items Only with Dungeon Images",
-	  "game_name": "Ocarina of Time Randomizer",
-      "author": "JRJathome",
-      "version": "2.0.0.17",
-      "uid": "ootrando_itemsonly_images_jrjathome",
-      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_images_jrjathome.zip"
-    },
-	{
-      "name": "OoT Randomizer - Items Only - Old Layout",
-	  "game_name": "Ocarina of Time Randomizer",
-      "author": "JRJathome",
-      "version": "2.0.0.8",
-      "uid": "ootrando_itemsonly_jrjathome_old",
-      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_itemsonly_jrjathome_old.zip"
+      "version": "2.0.2.0",
+      "uid": "ootrando_jrjathome",
+      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_jrjathome.zip"
     },
     {
       "name": "LADX Randomizer - Items Only",
