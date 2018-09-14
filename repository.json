@@ -8,7 +8,7 @@
       "version": "2.0.2.0",
 	  "required_app_version": "2.1.0.0",
       "uid": "ootrando_jrjathome",
-      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_jrjathome.zip"
+      "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_jrjathome.zip",
 	  "variants": [
         {
           "name": "Old Layout",
