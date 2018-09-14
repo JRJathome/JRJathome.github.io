@@ -8,6 +8,26 @@
       "version": "2.0.2.0",
       "uid": "ootrando_jrjathome",
       "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_jrjathome.zip"
+	  "variants": [
+        {
+          "name": "Old Layout",
+        },
+        {
+          "name": "Old Layout (with keys)",
+        },
+        {
+          "name": "Old Layout (for keyless seeds)",
+        },
+        {
+          "name": "Compact Layout",
+        },
+		{
+          "name": "Compact Layout (with keys)",
+        },
+		{
+          "name": "Compact Layout (for keyless seeds)",
+        }
+		]
     },
     {
       "name": "LADX Randomizer - Items Only",
