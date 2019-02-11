@@ -34,7 +34,8 @@
       "name": "LADX Randomizer - Items Only",
 	  "game_name": "Link's Awakening Randomizer",
       "author": "JRJathome",
-      "version": "1.0.0.8",
+      "version": "1.0.0.9",
+      "flags": [ "chathud" ],
       "uid": "ladx_itemsonly_jrjathome",
       "link": "https://github.com/JRJathome/LADXRandomizerTracker/raw/master/ladx_itemsonly_jrjathome.zip"
     }
