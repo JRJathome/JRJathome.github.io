@@ -11,22 +11,22 @@
       "link": "https://github.com/JRJathome/OoTRandoItemTracker/raw/master/ootrando_jrjathome.zip",
 	  "variants": [
         {
-          "name": "Old Layout",
+          "name": "Old Layout"
         },
         {
-          "name": "Old Layout (with keys)",
+          "name": "Old Layout (with keys)"
         },
         {
-          "name": "Old Layout (for keyless seeds)",
+          "name": "Old Layout (for keyless seeds)"
         },
         {
-          "name": "Compact Layout",
+          "name": "Compact Layout"
         },
 		{
-          "name": "Compact Layout (with keys)",
+          "name": "Compact Layout (with keys)"
         },
 		{
-          "name": "Compact Layout (for keyless seeds)",
+          "name": "Compact Layout (for keyless seeds)"
         }
 		]
     },
